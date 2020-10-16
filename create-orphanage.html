@@ -52,7 +52,8 @@
 
             <div class="map-container">
               <div id="mapid"></div>
-
+              <input type="hidden" name="lat">
+              <input type="hidden" name="lng">
               <footer>
                 <a href="#" id="select-point">
                   Clique no mapa para adicionar a localização
@@ -83,13 +84,15 @@
 
                 <div class="new-upload">
                   <input name="images" placeholder="Cole o link da foto aqui" required/>
-                  <span>
+                  <span onclick="deleteField(event)">
                     <img src="./public/images/remove-file.svg" alt="Remover foto">
                   </span>
                 </div>
                 
               </div>
-              <button type="button">
+              <button 
+                onclick="addPhotoField()"
+                type="button">
                 <img src="./public/images/add-file.svg" alt="Nova imagem" />
               </button>
             </div>
@@ -121,8 +124,14 @@
               />
 
               <div class="button-select">
-                <button type="button" class="active">Sim</button>
-                <button type="button" >Não</button>
+                <button data-value="1"
+                onclick="toggleSelect(event)" 
+                type="button" 
+                class="active">Sim</button>
+                <button data-value="0"
+                onclick="toggleSelect(event)" 
+                type="button" 
+                >Não</button>
               </div>
 
               <button type="submit" class="primary-button">

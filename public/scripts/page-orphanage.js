@@ -7,7 +7,7 @@ const options = {
 }
 
 //create map
-const map = L.map('mapid', options).setView([-27.2197115,-49.6444187], 15);
+const map = L.map('mapid', options).setView([-23.6388255,-46.5149171], 15);
 
 //create and add tileLayer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
@@ -21,7 +21,7 @@ const icon = L.icon({
 });
 
 
-L.marker([-27.2197115,-49.6444187], { icon })
+L.marker([-23.6388255,-46.5149171], { icon })
   .addTo(map)
 
   /* image gallery */
