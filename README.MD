@@ -57,9 +57,9 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 
 ## ⚙️ Configuração
 
-...
+```
 git clone
-...
+```
 
 ## ⚙️ Instalando dependências
 ---
