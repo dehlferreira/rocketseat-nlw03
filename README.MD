@@ -6,7 +6,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -19,11 +18,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [JavaScript](https://www.javascript.com//)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-<!-- - [React Native](https://facebook.github.io/react-native/) -->
-<!-- - [Expo](https://expo.io/)  -->
-- [JavaScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
 
