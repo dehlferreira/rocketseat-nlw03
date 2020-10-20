@@ -77,7 +77,7 @@ Instale as dependências:
 yarn install
 ```
 
-## ⚙️ Iniciando aplicação
+## ▶️ Iniciando aplicação
 
 Ainda no diretório do projeto, execute o comando no terminal:
 
