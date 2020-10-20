@@ -9,7 +9,7 @@
 </p>
 
 ## Repositório criado para o estudo da Next Level Week 3 realizado pela
-<p align="center">🚀 Rocketseat</p>
+<h2 align="center">🚀 Rocketseat</h2>
 
 <br>
 
