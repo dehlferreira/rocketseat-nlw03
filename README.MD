@@ -20,7 +20,7 @@
 
 ## ⏱ Branchs
 
-Caso queria acompanhar como foi a evolução durante a semana, segue abaixo link para as branchs criadas conforme foram sendo liberados os videos durante NLW:
+Caso queria acompanhar como foi a evolução durante a semana, segue abaixo os links para as branchs criadas conforme as aulas foram sendo liberadas durante a NLW:
 
 - [1º Dia - feature/workshop-one](https://github.com/dehlferreira/rocketseat-nlw03/tree/feature/workshop-one)
 - [2º Dia - feature/workshop-two](https://github.com/dehlferreira/rocketseat-nlw03/tree/feature/workshop-two)
