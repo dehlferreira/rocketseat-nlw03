@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a href="#-branchs">Branchs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
@@ -19,7 +20,7 @@
 
 ## ⏱ Branchs
 
-As branchs foram criadas criadas conforme evolução e liberação das aulas:
+Caso queria acompanhar como foi a evolução durante a semana, segue abaixo link para as branchs criadas conforme foram sendo liberados os videos durante NLW:
 
 - [1º Dia - feature/workshop-one](https://github.com/dehlferreira/rocketseat-nlw03/tree/feature/workshop-one)
 - [2º Dia - feature/workshop-two](https://github.com/dehlferreira/rocketseat-nlw03/tree/feature/workshop-two)
