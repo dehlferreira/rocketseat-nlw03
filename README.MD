@@ -77,6 +77,19 @@ Instale as dependências:
 yarn install
 ```
 
+## ⚙️ Iniciando aplicação
+
+Ainda no diretório do projeto, execute o comando no terminal:
+
+```
+yarn start
+```
+
+Agora abra o navegador e copie o link a baixo:
+
+```
+https://localhost:5500
+```
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
