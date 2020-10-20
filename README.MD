@@ -57,11 +57,26 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 
 ## ⚙️ Configuração
 
+No terminal clone o projeto para o diretório desejado:
+
 ```
-git clone
+git clone https://github.com/dehlferreira/rocketseat-nlw03.git
 ```
 
 ## ⚙️ Instalando dependências
+
+Para instalar, acesse o diretório onde você clonou o projeto:
+
+```
+cd rocketseat-nlw03
+```
+
+Instale as dependências:
+
+```
+yarn install
+```
+
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
