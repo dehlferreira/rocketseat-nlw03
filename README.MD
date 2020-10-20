@@ -6,10 +6,13 @@
   <a href="#-branchs">Branchs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-configuração">Configuração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalando-dependências">Instalando dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## Repositório criado para o estudo da Next Level Week 3 realizado pela
+## Repositório criado para o meu estudo da Next Level Week 3 realizado pela
 <h2 align="center">🚀 Rocketseat</h2>
 
 <br>
@@ -20,7 +23,7 @@
 
 ## ⏱ Branchs
 
-Caso queria acompanhar como foi a evolução durante a semana, segue abaixo os links para as branchs criadas conforme as aulas foram sendo liberadas durante a NLW:
+Caso queira acompanhar como foi a evolução durante a semana, segue abaixo os links para as branchs criadas conforme as aulas foram sendo liberadas durante a NLW:
 
 - [1º Dia - feature/workshop-one](https://github.com/dehlferreira/rocketseat-nlw03/tree/feature/workshop-one)
 - [2º Dia - feature/workshop-two](https://github.com/dehlferreira/rocketseat-nlw03/tree/feature/workshop-two)
@@ -46,8 +49,19 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
-- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
+## Pré-Requisitos
+
+- [Node](https://nodejs.org/pt-br/)
+- [Yarn](https://yarnpkg.com/getting-started)
+
+## Configuração
+
+## Instalando dependências
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+
+ <!-- coisas para acrescentar conforme evolução -->
+<!-- - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile) -->
