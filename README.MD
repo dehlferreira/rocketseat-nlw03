@@ -8,7 +8,8 @@
   <a href="#-layout">Layout</a>
 </p>
 
-## Repositório criado para o estudo da Next Level Week 3 realizado pela 🚀 Rocketseat
+## Repositório criado para o estudo da Next Level Week 3 realizado pela
+<p align="center">🚀 Rocketseat</p>
 
 <br>
 
