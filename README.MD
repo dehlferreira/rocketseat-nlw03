@@ -9,14 +9,19 @@
 </p>
 
 ## Repositório criado para o estudo da Next Level Week 3 realizado pela
-## 🚀 Rocketseat
-<h2 align="center"></h2>
+<h2 align="center">🚀 Rocketseat</h2>
 
 <br>
 
 <p align="center">
   <img alt="Happy" src="./public/images/happy.png" width="100%">
 </p>
+
+## ⏱ Branchs
+
+As branchs foram criadas criadas conforme evolução e liberação das aulas:
+
+- [1º Dia - feature/workshop-one](https://https://github.com/dehlferreira/rocketseat-nlw03/tree/feature/workshop-one//)
 
 ## 🚀 Tecnologias
 
