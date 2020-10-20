@@ -88,7 +88,7 @@ yarn start
 Agora abra o navegador e copie o link a baixo:
 
 ```
-https://localhost:5500
+localhost:5500
 ```
 ---
 
