@@ -8,6 +8,9 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-configuração">Configuração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalando-dependências">Instalando dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-iniciando-aplicação">Iniciando aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -54,7 +57,7 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 - [Node](https://nodejs.org/pt-br/)
 - [Yarn](https://yarnpkg.com/getting-started)
 
-## ⚙️ configuracao
+## ⚙ Configuração
 
 No terminal clone o projeto para o diretório desejado:
 
@@ -62,7 +65,7 @@ No terminal clone o projeto para o diretório desejado:
 git clone https://github.com/dehlferreira/rocketseat-nlw03.git
 ```
 
-## ⚙️ Instalando dependencias
+## ⚙ Instalando dependências
 
 Para instalar, acesse o diretório onde você clonou o projeto:
 
@@ -76,7 +79,7 @@ Instale as dependências:
 yarn install
 ```
 
-## ▶️ Iniciando aplicacao
+## ▶️ Iniciando aplicação
 
 Ainda no diretório do projeto, execute o comando no terminal:
 
