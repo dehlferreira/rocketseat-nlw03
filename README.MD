@@ -7,9 +7,10 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pre-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-configuracao">Configuração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalando-dependencias">Instalando dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-iniciando-aplicacao">Instalando dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Repositório criado para meu estudo da Next Level Week 3 realizado pela
@@ -50,12 +51,12 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 
-## ⚙️ Pré-Requisitos
+## ⚙️ Pre-Requisitos
 
 - [Node](https://nodejs.org/pt-br/)
 - [Yarn](https://yarnpkg.com/getting-started)
 
-## ⚙️ Configuração
+## ⚙️ Configuracao
 
 No terminal clone o projeto para o diretório desejado:
 
@@ -63,7 +64,7 @@ No terminal clone o projeto para o diretório desejado:
 git clone https://github.com/dehlferreira/rocketseat-nlw03.git
 ```
 
-## ⚙️ Instalando dependências
+## ⚙️ Instalando dependencias
 
 Para instalar, acesse o diretório onde você clonou o projeto:
 
@@ -77,7 +78,7 @@ Instale as dependências:
 yarn install
 ```
 
-## ▶️ Iniciando aplicação
+## ▶️ Iniciando aplicacao
 
 Ainda no diretório do projeto, execute o comando no terminal:
 
