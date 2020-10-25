@@ -54,7 +54,7 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 - [Node](https://nodejs.org/pt-br/)
 - [Yarn](https://yarnpkg.com/getting-started)
 
-## ⚙️ Configuracao
+## ⚙️ configuracao
 
 No terminal clone o projeto para o diretório desejado:
 
